@@ -12,6 +12,7 @@ var token = totp.getCode(key)
 console.log(token)
 ```
 
-### Source
+### reference
+Article: http://blog.tinisles.com/2011/10/google-authenticator-one-time-password-algorithm-in-javascript/
 Author: @russau
 Code Source at :http://jsfiddle.net/russau/ch8PK/
