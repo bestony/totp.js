@@ -13,4 +13,5 @@ console.log(token)
 ```
 
 ### Source
+Author: @russau
 Code Source at :http://jsfiddle.net/russau/ch8PK/
