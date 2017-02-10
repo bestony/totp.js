@@ -11,3 +11,6 @@ const totp = require('../../utils/totp.js');
 var token = totp.getCode(key)
 console.log(token)
 ```
+
+### Source
+Code Sorce at :http://jsfiddle.net/russau/ch8PK/
